@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Tendo Rebuild",
+      "path": "ios-tendo-rebuild",
+      "framework": "swift"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
